@@ -14,8 +14,6 @@ import org.json.JSONObject;
 public class Calculationsapi {
 	
 	
-	//This is my Changes
-	
 		@Path("/ftoc/{f}")
 		@GET
 		@Produces("application/json")
